@@ -2,12 +2,24 @@
 
 **Organizer**: [Shagun Sodhani](mailto:sshagunsodhani@gmail.com)
 
+## 2019
+
+|       Date       | Topic | Presenters | Slides |
+|:----------------:|:----------------------------------------:|:----------:|:------:|
+| 2nd March, 2019 | Spring Break | | 
+| 26th February, 2019 | RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space | Jian Tang | [Slides](https://drive.google.com/file/d/1YcVFxG-wybTn6h0l5-xZ0_rxPS-Ctf6X/view?usp=sharing)
+| 19th February, 2019 | GraphVite | Zhaocheng Zhu | [Slides](https://drive.google.com/file/d/1V6ToBS3msekc-_XkzJtOwUkpOsYX7WrE/view?usp=sharing)
+| 12th February, 2019 |	Multi-GCN: Graph Convolutional Networks for Multi-View Networks, with Applications to Global Poverty | Simon Blackburn | [Slides](https://drive.google.com/file/d/1-HgN1cogcImghtNBouSW9Mw2LiSQa_mF/view?usp=sharing)
+| 5th February, 2019 |	A review of semi-supervised learning on graphs using graph convolutional networks | Carlos Eduardo Lassance | [Slides](https://drive.google.com/file/d/1Kuiuesn-O0X9pi4YMTLOj37gzJHCxBTf/view?usp=sharing)
+| 29th January, 2019 |	Compositional Fairness Constraints for Graph Embeddings | Joey Bose | [Slides](https://drive.google.com/file/d/1RUz2u0k55XLRX5uKxHtDJyIBij_Nz6n1/view?usp=sharing)
+| 22nd January, 2019 |	Happy ICML  |  | 
+| 15th January, 2019 |	[Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion](https://ai.google/research/pubs/pub45634)  | Disha Shrivastava| [Slides](https://drive.google.com/file/d/1tLcA0Z-NX_TcRx4bWhcpFH1bElePkoAs/view?usp=sharing)
+
+
 ## 2018
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-| 22nd January, 2019 |	Happy ICML  |  | 
-| 15th January, 2019 |	[Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion](https://ai.google/research/pubs/pub45634)  | Disha Shrivastava| [Slides](https://drive.google.com/file/d/1tLcA0Z-NX_TcRx4bWhcpFH1bElePkoAs/view?usp=sharing)
 | 22nd November, 2018 |	End of Semester  | 
 | 15th November, 2018 |	[Towards Sparse Hierarchical Graph Classifiers](https://arxiv.org/abs/1811.01287)  | Cătălina Cangea | [Slides](https://drive.google.com/file/d/1X707h9ATeivmNUWbGPrSMCV1U3DyxXzj/view?usp=sharing)
 | 8th November, 2018 |	Cancelled  |  |  
